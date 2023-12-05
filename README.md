@@ -13,5 +13,5 @@
 ![img](https://github.com/luffy-arc/lab9web/blob/main/Screenshot%20(74).png)
 ![img](https://github.com/luffy-arc/lab9web/blob/main/Screenshot%20(77).png)
 ## Ubah barang
-![img](https://github.com/luffy-arc/lab9web/blob/main/Screenshot%20(71).png)
+![img](https://github.com/luffy-arc/lab9web/blob/main/Screenshot%20(71).jpg)
 ![img](https://github.com/luffy-arc/lab9web/blob/main/Screenshot%20(78).png)
